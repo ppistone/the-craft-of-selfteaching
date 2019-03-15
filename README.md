@@ -74,8 +74,7 @@ TeachYourSelf(coding)
 > - [T-appendix.editor.vscode（**Visual Studio Code 的安装与配置**）](T-appendix.editor.vscode.ipynb)
 > - [T-appendix.git-introduction（**Git 简介**）](T-appendix.git-introduction.ipynb)
 > - [T-appendix.jupyter-installation-and-setup（**Jupyterlab 的安装与配置**）](T-appendix.jupyter-installation-and-setup.ipynb)
-> - [T-appendix.symbols（**这些符号都代表什么？**）](T-appendix.symbols.ipynb) 
-test
+> - [T-appendix.symbols（**这些符号都代表什么？**）](T-appendix.symbols.ipynb)
 
 
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
